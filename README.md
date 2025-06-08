@@ -1,4 +1,4 @@
-# LLVM IR
+# LLVM IR - Compiler Construction (MC921)
 
 The objective of this assignment is to generate LLVM IR.
 Further instructions can be seen in this
